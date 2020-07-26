@@ -1,0 +1,22 @@
+h1{
+    font-size: x-large;
+    color: white;
+    margin-left: 10px;
+}
+
+p,li{
+    line-height: 30px;
+    color: white;
+    margin-left: 10px;
+    
+}
+
+
+#top,#left,#right{
+    background-color: #1b1b32 ;
+}
+
+hr{
+    margin: 10px;
+}
+

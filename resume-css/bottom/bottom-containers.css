@@ -1,0 +1,10 @@
+#bottom{
+    grid-row: 5/13;
+    grid-column: 1/13;
+
+    display: grid;
+    grid-template-columns: repeat(12,1fr);
+    grid-template-rows: repeat(12,1fr);
+
+ 
+}

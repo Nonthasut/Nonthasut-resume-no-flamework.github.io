@@ -1,0 +1,12 @@
+#section-profile-content {
+    grid-column: 4/13;
+    margin-top: 20px;
+   
+ 
+}
+#section-profile-content p:first-child{
+font-size: xx-large;
+}
+#section-profile-content p:nth-of-type(2){
+font-size: large;
+}
